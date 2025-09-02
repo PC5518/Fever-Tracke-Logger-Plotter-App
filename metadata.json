@@ -1,0 +1,7 @@
+{
+  "name": "Fever Tracker",
+  "description": "A simple app to track temperature, symptoms, and medications, with an interactive chart and camera-based temperature reading.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
