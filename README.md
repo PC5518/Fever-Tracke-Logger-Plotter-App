@@ -10,6 +10,16 @@ Later, I extended it into this web-based version using React, Vite, and TypeScri
 - Temperature vs. time chart.
 - Built with React + Vite + TypeScript.
 
+## [![Demo Video](https://img.youtube.com/vi/trcBuDE0DSM/0.jpg)](https://www.youtube.com/watch?v=trcBuDE0DSM)
+
+## Allows you to enter data and graph it.
+<img width="1682" height="896" alt="image" src="https://github.com/user-attachments/assets/3a6e3d55-27d1-4014-a328-181c535a38bc" />
+## You can record your medicines taken, Extra Remarks and health conditon at every time.
+<img width="1531" height="808" alt="image" src="https://github.com/user-attachments/assets/c47f724c-d7d4-491d-8529-7c6df5a76859" />
+## Get the history Also Recorded
+<img width="1365" height="473" alt="image" src="https://github.com/user-attachments/assets/bf123cad-ff0a-48cb-8e7d-71548478d357" />
+
+
 ## Prerequisites
 - Node.js (download from https://nodejs.org)
 - npm (comes with Node.js)
