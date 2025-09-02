@@ -9,7 +9,7 @@ Later, I extended it into this web-based version using React, Vite, and TypeScri
 - Table to display log entries.
 - Temperature vs. time chart.
 - Built with React + Vite + TypeScript.
-
+## Demo Video
 ## [![Demo Video](https://img.youtube.com/vi/trcBuDE0DSM/0.jpg)](https://www.youtube.com/watch?v=trcBuDE0DSM)
 
 ## Allows you to enter data and graph it.
