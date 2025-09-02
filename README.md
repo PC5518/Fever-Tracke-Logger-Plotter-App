@@ -1,9 +1,6 @@
-# Let's update the Node.js README file to clearly mention that this is the "web app version (for PC)" 
-# and that the original was made in Python.
 
-node_readme_updated = """# Fever Tracker Web App (PC Version)
 
-This is the **web app version (for PC)** of my Fever Tracker project.  
+## This is the **web app version (for PC)** of my Fever Tracker project.  
 The original project was first built in **Python**, where it logged data into Excel and plotted fever charts.  
 Later, I extended it into this web-based version using React, Vite, and TypeScript.
 
@@ -17,7 +14,7 @@ Later, I extended it into this web-based version using React, Vite, and TypeScri
 - Node.js (download from https://nodejs.org)
 - npm (comes with Node.js)
 
-## Running the App
+## Running the App on your Windows PC
 1. Extract the project folder (if it is in zip format).
 2. Open a terminal in the `fever-tracker` folder (where `package.json` is located).
 3. Install dependencies:
